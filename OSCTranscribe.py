@@ -1,5 +1,5 @@
 #OSCTranscibe
-#Originally Created by C4E
+#Originally Created by Programming for People
 #Maintained and updated by Andy Carluccio
 #Liminal Entertainment Technologies, LLC
 
