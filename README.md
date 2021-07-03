@@ -4,7 +4,7 @@ A python-based transcription utility designed to tie to production software via 
 You can see the the original work at: https://www.youtube.com/watch?v=T3jd-894Ar4
 
 ## Source Dependencies
-You'll need to install these libraries:
+You'll need to install these libraries if you plan to build from source:
 
 PythonOSC for using Open Sound Control: https://pypi.org/project/python-osc/
 
